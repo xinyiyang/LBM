@@ -1,0 +1,1 @@
+ln_solver/solver/util/gt2gr.v25.f (where set output varibles) transforms Gt3 output from a linear run to GrADS file. 
